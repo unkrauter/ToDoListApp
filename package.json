@@ -1,8 +1,8 @@
 {
-  "name": "Todo list a",
+  "name": "Todo list app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://github.com/unkrauter/ToDoListApp.git",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.18",
     "@fortawesome/free-solid-svg-icons": "^5.8.2",
